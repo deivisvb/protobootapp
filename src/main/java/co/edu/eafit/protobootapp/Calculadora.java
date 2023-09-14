@@ -8,7 +8,7 @@ public class Calculadora {
      * @return 
      */
     public Double cuadrado(Double numero) {
-        return numero + numero;
+        return numero * numero;
     }
     
     /**
