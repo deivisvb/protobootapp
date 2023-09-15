@@ -1,8 +1,8 @@
 package co.edu.eafit.protobootapp;
 
-/*
-This is a simple calculator class.
-*/
+    /*
+    This is a simple calculator class.
+    */
 public class Calculadora {
     /**
      * 
